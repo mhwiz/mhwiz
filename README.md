@@ -2,7 +2,7 @@
 
 ### Cybersecurity | Linux | SDR | Specialized Hardware
 
-## 🛡️ Cybersecurity, Interests, and General Info
+## 🛡️ About Me
 - **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
 - **Current certifications** include CompTIA's A+, Net+, and Sec+
 - In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence 
