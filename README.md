@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, my name is **mhwiz**👋
 
-<!--
-**mhwiz/mhwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | Linux | SDR | Specialized Hardware
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity and Interests
+- **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
+- **Current certifications** include CompTIA's A+, Net+, and Sec+
+- In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence 
+- Researching growing concerns regarding privacy rights in the modern world
+- Assembling & disassembling hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **Wardriving-Log-Aggregation**
+This my latest project. Focused on learning Python and formatting/aggregating log files obtained from wardriving
+
+**Repo:** https://github.com/mhwiz/Wardriving-Log-Aggregation
+
+---
