@@ -1,4 +1,4 @@
-## Hello, my name is **mhwiz**👋
+## Hello, my name is **mhwiz** 👋
 
 ### Cybersecurity | Linux | SDR | Specialized Hardware
 
