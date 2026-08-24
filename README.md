@@ -24,7 +24,7 @@ I decided after a semester that I wanted to be doing something more in line with
 
 I currently hold an Associate's Degree in **Cybersecurity and Networking**
 During my time at college, I learned about:
-- Cybersecurity & Networking
+- Networking & Fiber
 - Computer Hardware
 - MySQL
 - Python
