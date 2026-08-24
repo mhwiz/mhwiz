@@ -43,8 +43,8 @@ I have skyrocketed with my knowledge and experience very recently, and have been
 
 ---
 
-### My Latest -> **Wardriving-Log-Aggregation**
-This my latest project. Focused on learning Python and formatting/aggregating log files obtained from wardriving
+### My Latest -> **Firewall-Simulator**
+This my latest project. Focused on learning Python and simulating firewall behavior by adding allow/deny ACL rules to specified network ranges.
 
 **Repo:** https://github.com/mhwiz/Firewall-Simulator
 
