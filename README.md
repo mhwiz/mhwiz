@@ -17,6 +17,7 @@ During this time I also came to discover popular cybersecurity/hacking gadgets s
 - WiFi Pineapple
 - Monitor/Injection WiFi Adapters
 - USB Rubber Duckys
+
 Some time later I found myself deciding on a degree to pursue. I originally tried Business and Finance!
 I decided after a semester that I wanted to be doing something more in line with my interests, and to mainly take classes associated with that.
 
