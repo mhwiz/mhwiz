@@ -44,10 +44,10 @@ I have skyrocketed with my knowledge and experience very recently, and have been
 
 ---
 
-### My Latest -> **Firewall-Simulator**
-This my latest project. Focused on learning Python and simulating firewall behavior by adding allow/deny ACL rules to specified network ranges.
+### My Latest -> **DNS-Resolver**
+This my latest project. Focused on learning Python resolving IP's from DNS.
 
-**Repo:** https://github.com/mhwiz/Firewall-Simulator
+**Repo:** https://github.com/mhwiz/DNS-Resolver
 
 ---
 
