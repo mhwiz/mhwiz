@@ -2,6 +2,8 @@
 
 ### Cybersecurity | Linux | SDR | MANET
 
+> _**"Those who would give up essential liberty to have temporary liberty, deserve neither liberty nor safety" \~ Benjamin Franklin**_
+
 ## 🛡️ About Me
 - **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
 - **Current certifications** include CompTIA's A+, Net+, and Sec+
