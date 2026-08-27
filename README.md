@@ -1,6 +1,6 @@
 ## Hello, my name is **mhwiz** 👋
 
-### Cybersecurity | Linux | SDR | Specialized Hardware
+### Cybersecurity | Linux | SDR | MANET
 
 ## 🛡️ About Me
 - **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
