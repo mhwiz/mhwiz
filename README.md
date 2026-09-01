@@ -1,6 +1,6 @@
 ## Hello, my name is **mhwiz** 👋
 
-### Cybersecurity | Linux | SDR | MANET
+### Cybersecurity | Linux | Gaming | Self-Hosting | SDR | MANET
 ---
 > _**"Those who would give up essential liberty to have temporary liberty, deserve neither liberty nor safety" \~ Benjamin Franklin**_
 
