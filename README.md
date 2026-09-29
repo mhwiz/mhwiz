@@ -46,10 +46,10 @@ I have skyrocketed with my knowledge and experience very recently, and have been
 
 ---
 
-### My Latest -> **DNS-Resolver**
-This my latest project. Focused on learning Python resolving IP's from DNS.
+### My Latest -> **Port Scanner**
+This my latest project. Focused on network scanning, interface selection, input validation, and timed function wrapping.
 
-**Repo:** https://github.com/mhwiz/DNS-Resolver
+**Repo:** https://github.com/mhwiz/portscanner
 
 ---
 
