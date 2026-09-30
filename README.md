@@ -38,6 +38,8 @@ During my time at college, I learned about:
 
 **All of my other experience is from curiosity and self-teaching!**
 
+##🧪 Home Lab (**COMING SOON**)
+
 ## 🔭 What am I currently working on?
 
 **I am currently working on studying threat modeling, SIEM, analyst skills, SDR, homelabbing, and in-depth electronics**
