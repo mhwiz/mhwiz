@@ -20,7 +20,6 @@
 
 ## 🛡️ About Me
 
-![A+](https://www.comptia.org/en-us/certifications/a/core-1-v15/) ![alt text](http://url/to/img.png) ![alt text](http://url/to/img.png)
 - **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
 - In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence
 - Researching growing concerns regarding privacy rights in the modern world
