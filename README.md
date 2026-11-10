@@ -19,7 +19,7 @@
 ---
 
 ## 🛡️ About Me
-
+- **Current certifications** include CompTIA's A+, Net+, and Sec+
 - **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
 - In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence
 - Researching growing concerns regarding privacy rights in the modern world
