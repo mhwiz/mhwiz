@@ -1,13 +1,13 @@
 ## Hello, my name is **mhwiz** 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0DCAF0?style=for-the-badge&logoColor=white&labelColor=17152B" />
-  <img src="https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white&labelColor=17152B" />
-  <img src="https://img.shields.io/badge/Homelabbing-00B8D9?style=for-the-badge&logoColor=white&labelColor=17152B" />
-  <img src="https://img.shields.io/badge/Ham%20Radio-C084FC?style=for-the-badge&logoColor=white&labelColor=17152B" />
-  <img src="https://img.shields.io/badge/SDR-38BDF8?style=for-the-badge&logoColor=white&labelColor=17152B" />
-  <img src="https://img.shields.io/badge/Self--Hosting-6366F1?style=for-the-badge&logoColor=white&labelColor=17152B" />
-  <img src="https://img.shields.io/badge/Electronics-22D3EE?style=for-the-badge&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/Cybersecurity-EA4335?style=plastic&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Homelabbing-2E8B57?style=plastic&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ham%20Radio-E69B24?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDR-8A2BE2?style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Self--Hosting-00A6A6?style=plastic&logo=nextcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronics-E5B800?style=plastic&logo=arduino&logoColor=black" />
 </p>
 
 ---
