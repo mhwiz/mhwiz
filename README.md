@@ -1,14 +1,7 @@
-# 👋 Hello, my name is **mhwiz**
+## Hello, my name is **mhwiz** 👋
 
 <p align="center">
-  <strong>Cybersecurity&nbsp; | &nbsp;Linux&nbsp; | &nbsp;Gaming&nbsp; | &nbsp;Self-Hosting&nbsp; | &nbsp;SDR&nbsp; | &nbsp;Ham Radio</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-00BFFF?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Explorer-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Self--Hosting-Homelab-8A2BE2?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Always-Learning-00A86B?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <strong>Cybersecurity&nbsp; | &nbsp;Linux&nbsp; | &nbsp;Homelabbing&nbsp; | &nbsp;Ham Radio&nbsp; | &nbsp;SDR&nbsp; | &nbsp;Self-Hosting&nbsp; | &nbsp;Electronics</strong>
 </p>
 
 ---
