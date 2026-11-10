@@ -1,4 +1,6 @@
-## Hello, my name is **mhwiz** 👋
+<div align="center">
+
+# Hello, my name is **mhwiz** 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=parrotsecurity&logoColor=FFFFFF&labelColor=46566A" />
