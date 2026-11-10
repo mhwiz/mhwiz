@@ -1,7 +1,13 @@
 ## Hello, my name is **mhwiz** 👋
 
 <p align="center">
-  <strong>Cybersecurity&nbsp; | &nbsp;Linux&nbsp; | &nbsp;Homelabbing&nbsp; | &nbsp;Ham Radio&nbsp; | &nbsp;SDR&nbsp; | &nbsp;Self-Hosting&nbsp; | &nbsp;Electronics</strong>
+  <img src="https://img.shields.io/badge/Cybersecurity-0DCAF0?style=for-the-badge&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/Homelabbing-00B8D9?style=for-the-badge&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/Ham%20Radio-C084FC?style=for-the-badge&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/SDR-38BDF8?style=for-the-badge&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/Self--Hosting-6366F1?style=for-the-badge&logoColor=white&labelColor=17152B" />
+  <img src="https://img.shields.io/badge/Electronics-22D3EE?style=for-the-badge&logoColor=white&labelColor=17152B" />
 </p>
 
 ---
