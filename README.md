@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=parrotsecurity&logoColor=FFFFFF&labelColor=46566A" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=101010&labelColor=FF8C00" />
   <img src="https://img.shields.io/badge/Homelabbing-A7B8C8?style=for-the-badge&logo=proxmox&logoColor=FFFFFF&labelColor=52677D" />
-  <img src="https://img.shields.io/badge/Ham%20Radio-B6A995?style=for-the-badge&logo=radio&logoColor=FFFFFF&labelColor=75695D" />
-  <img src="https://img.shields.io/badge/SDR-BD00FF?style=for-the-badge&logo=gnuradio&logoColor=FFFFFF&labelColor=6500CC" />
+  <img src="https://img.shields.io/badge/%E2%9F%BF%20Ham%20Radio-B6A995?style=for-the-badge&labelColor=75695D" />
+  <img src="https://img.shields.io/badge/%E3%80%9C%20SDR-BD00FF?style=for-the-badge&labelColor=6500CC" />
   <img src="https://img.shields.io/badge/Self--Hosting-A5C5D8?style=for-the-badge&logo=nextcloud&logoColor=FFFFFF&labelColor=557D96" />
   <img src="https://img.shields.io/badge/Electronics-FFFF00?style=for-the-badge&logo=arduino&logoColor=101010&labelColor=FF6D00" />
 </p>
