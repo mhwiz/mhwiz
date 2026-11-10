@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Ham%20Radio-B6A995?style=for-the-badge&logo=bluetooth&logoColor=FFFFFF&labelColor=75695D" />
   <img src="https://img.shields.io/badge/SDR-BD00FF?style=for-the-badge&logo=audacity&logoColor=FFFFFF&labelColor=6500CC" />
   <img src="https://img.shields.io/badge/Self--Hosting-559ec9?style=for-the-badge&logo=nextcloud&logoColor=FFFFFF&labelColor=557D96" />
-  <img src="https://img.shields.io/badge/Electronics-f7f756?style=for-the-badge&logo=arduino&logoColor=101010&labelColor=FF6D00" />
+  <img src="https://img.shields.io/badge/Electronics-f7f756?style=for-the-badge&logo=arduino&logoColor=101010&labelColor=ff872e" />
 </p>
 
 ---
