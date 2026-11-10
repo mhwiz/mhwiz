@@ -59,7 +59,7 @@ During my time at college, I learned about:
 
 ---
 
-## 🧪 Home Lab <sup>COMING SOON</sup>
+## 🧪 Home Lab <sub>(COMING SOON)</sub>
 
 <p align="center">
   <i>Building, experimenting, breaking things, and learning how everything fits together.</i>
