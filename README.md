@@ -1,7 +1,7 @@
 ## Hello, my name is **mhwiz** 👋
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-9BB8C8?style=for-the-badge&logo=parrotsecurity&logoColor=FFFFFF&labelColor=46566A" />
+  <img src="https://img.shields.io/badge/Cybersecurity-blue?style=for-the-badge&logo=parrotsecurity&logoColor=FFFFFF&labelColor=46566A" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=101010&labelColor=FF8C00" />
   <img src="https://img.shields.io/badge/Homelabbing-A7B8C8?style=for-the-badge&logo=proxmox&logoColor=FFFFFF&labelColor=52677D" />
   <img src="https://img.shields.io/badge/Ham%20Radio-B6A995?style=for-the-badge&logoColor=FFFFFF&labelColor=75695D" />
