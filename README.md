@@ -1,46 +1,80 @@
-## Hello, my name is **mhwiz** 👋
+# 👋 Hello, my name is **mhwiz**
 
-### Cybersecurity | Linux | Gaming | Self-Hosting | SDR | Ham Radio
+<p align="center">
+  <strong>Cybersecurity&nbsp; | &nbsp;Linux&nbsp; | &nbsp;Gaming&nbsp; | &nbsp;Self-Hosting&nbsp; | &nbsp;SDR&nbsp; | &nbsp;Ham Radio</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-00BFFF?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Explorer-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Self--Hosting-Homelab-8A2BE2?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Always-Learning-00A86B?style=for-the-badge&logo=bookstack&logoColor=white" />
+</p>
+
 ---
+
 > _**"Those who would give up essential liberty to have temporary liberty, deserve neither liberty nor safety" \~ Benjamin Franklin**_
 
+---
+
 ## 🛡️ About Me
+
 - **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
 - **Current certifications** include CompTIA's A+, Net+, and Sec+
-- In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence 
+- In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence
 - Researching growing concerns regarding privacy rights in the modern world
 - Assembling & disassembling hardware
 
-## ❔ How I got started
+---
+
+## ❔ How I Got Started
 
 I was exposed to a very small portion of the Cybersecurity world during my time in high school. I was exposed to the very well known distro: **Kali Linux.**
+
 From here, I would learn about bootable USBs, Mirai Botnets, DDOS, doxing, and more.
+
 During this time I also came to discover popular cybersecurity/hacking gadgets such as:
+
 - WiFi Pineapple
 - Monitor/Injection WiFi Adapters
 - USB Rubber Duckys
 
 Some time later, I found myself deciding on a degree to pursue. I originally tried Business & Marketing, but ended up wanting something more.
+
 I decided after a semester that I wanted to be doing something more in line with my interests, and to mainly take classes associated with that.
+
+---
 
 ## 📓 College & Experience
 
-I currently hold an Associate's Degree in **Cybersecurity and Networking**
+I currently hold an Associate's Degree in **Cybersecurity and Networking**.
+
 During my time at college, I learned about:
-- Networking & Fiber
-- Computer Hardware
-- MySQL
-- Python
-- Powershell
-- Project Management
-- DevOps
-- Computer Forensics
+
+| Area | Experience |
+|:---|:---|
+| 🌐 Networking | Networking & Fiber |
+| 🖥️ Hardware | Computer Hardware |
+| 🗄️ Databases | MySQL |
+| 🐍 Programming | Python |
+| ⚙️ Scripting | Powershell |
+| 📋 Management | Project Management |
+| 🔧 Infrastructure | DevOps |
+| 🔍 Investigation | Computer Forensics |
 
 **All of my other experience is from curiosity and self-teaching!**
 
-## 🧪 Home Lab (**COMING SOON**)
+---
 
-## 🔭 What am I currently working on?
+## 🧪 Home Lab <sup>COMING SOON</sup>
+
+<p align="center">
+  <i>Building, experimenting, breaking things, and learning how everything fits together.</i>
+</p>
+
+---
+
+## 🔭 What Am I Currently Working On?
 
 **I am currently working on studying threat modeling, SIEM, analyst skills, SDR, homelabbing, and in-depth electronics**
 
@@ -48,11 +82,20 @@ I have skyrocketed with my knowledge and experience very recently, and have been
 
 ---
 
-### My Latest -> **Port Scanner**
-This my latest project. Focused on network scanning, interface selection, input validation, and timed function wrapping.
+## 💻 My Latest → **Port Scanner**
+
+This is my latest project. Focused on network scanning, interface selection, input validation, and timed function wrapping.
+
+<p align="center">
+  <a href="https://github.com/mhwiz/portscanner">
+    <img src="https://img.shields.io/badge/View%20Project-Port%20Scanner-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 **Repo:** https://github.com/mhwiz/portscanner
 
 ---
 
 > _**"Such is always the pursuit of knowledge. The celestial fruits, the golden apples of the Hesperides, are ever guarded by a hundred-headed dragon which never sleeps, so that it is an Herculean labor to pluck them." \~ Henry David Thoreau**_
+
+---
