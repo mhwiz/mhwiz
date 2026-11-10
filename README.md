@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hello, my name is **mhwiz** 👋
 
@@ -18,20 +18,69 @@
 
 ---
 
+</div>
+
 ## 🛡️ About Me
-- **Current certifications** include CompTIA's A+, Net+, and Sec+
-- **Cybersecurity Enthusiast** currently learning more about threat modeling, specialized hardware, analyst skills, cloud security, and SDR
-- In constant pursuit of knowledge via homelabbing, curiosity, hands-on experience, and persistence
-- Researching growing concerns regarding privacy rights in the modern world
-- Assembling & disassembling hardware
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Certifications
+
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Cybersecurity
+
+- Threat Modeling
+- Analyst Skills
+- Cloud Security
+- SDR
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Hands-on Learning
+
+- Homelabbing
+- Hardware Exploration
+- Curiosity & Self-Teaching
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Personal Interests
+
+- Privacy Rights
+- Specialized Hardware
+- Assembling & Disassembling Hardware
+
+</td>
+</tr>
+</table>
 
 ---
 
+
+
 ## ❔ How I Got Started
+
+### `- First Exposure -`
 
 I was exposed to a very small portion of the Cybersecurity world during my time in high school. I was exposed to the very well known distro: **Kali Linux.**
 
 From here, I would learn about bootable USBs, Mirai Botnets, DDOS, doxing, and more.
+
+---
+
+### `- Exploring the Technology -`
 
 During this time I also came to discover popular cybersecurity/hacking gadgets such as:
 
@@ -39,9 +88,15 @@ During this time I also came to discover popular cybersecurity/hacking gadgets s
 - Monitor/Injection WiFi Adapters
 - USB Rubber Duckys
 
+---
+
+### `- Finding My Direction -`
+
 Some time later, I found myself deciding on a degree to pursue. I originally tried Business & Marketing, but ended up wanting something more.
 
 I decided after a semester that I wanted to be doing something more in line with my interests, and to mainly take classes associated with that.
+
+
 
 ---
 
@@ -62,7 +117,7 @@ During my time at college, I learned about:
 | 🔧 Infrastructure | DevOps |
 | 🔍 Investigation | Computer Forensics |
 
-**All of my other experience is from curiosity and self-teaching!**
+> **All of my other experience is from curiosity and self-teaching!**
 
 ---
 
@@ -76,7 +131,42 @@ During my time at college, I learned about:
 
 ## 🔭 What Am I Currently Working On?
 
-**I am currently working on studying threat modeling, SIEM, analyst skills, SDR, homelabbing, and in-depth electronics**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Threat Modeling
+
+Studying threat modeling and developing my understanding of security analysis.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 SIEM & Analyst Skills
+
+Exploring SIEM platforms, security monitoring, and analyst skills.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 SDR & Electronics
+
+Exploring software-defined radio, specialized hardware, and in-depth electronics.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Homelabbing
+
+Building infrastructure, experimenting with self-hosted services, and expanding my homelab.
+
+</td>
+</tr>
+</table>
+
+---
 
 I have skyrocketed with my knowledge and experience very recently, and have been exploring many different flavors of the cybersecurity world. I can't wait to share more of my journey!
 
