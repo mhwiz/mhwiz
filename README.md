@@ -24,11 +24,11 @@
 
 | | |
 |:---|:---|
-| 🎓 **Certifications** | CompTIA A+, Network+, and Security+. |
+| 🎓 **Certifications** | CompTIA A+, Network+, Security+, and General Class Licensee for Amateur Radio. |
 | 🔐 **Cybersecurity** | Studying threat modeling, SIEM, security analysis, cloud security, and defensive/offensive security concepts. |
 | 🖥️ **Hardware** | Hand-built systems, hardware exploration, electronics, and learning through assembling and disassembling equipment. |
-| 🐧 **Linux** | Working with Parrot Security, Debian, and other Linux distributions through daily use, experimentation, and hands-on learning. |
-| 📡 **Radio & SDR** | Amateur radio, software-defined radio, RF exploration, antenna hardware, and wireless technologies. |
+| 🐧 **Linux** | Working with Parrot Security, Pop!_OS, and other Linux distributions through daily use, experimentation, and hands-on learning. |
+| 📡 **Radio & SDR** | Amateur radio, software-defined radio, RF exploration, antennas, and wireless technologies. |
 | 🏗️ **Homelab** | Building a self-hosted environment focused on networking, virtualization, firewalls, monitoring, SIEM, and security infrastructure. |
 | 🌐 **Self-Hosting** | Exploring self-hosted services, Docker, infrastructure management, and privacy-focused alternatives to cloud platforms. |
 | 🧠 **Interested in** | Privacy rights, specialized hardware, cybersecurity research, networking, and understanding how technology works beneath the surface. |
